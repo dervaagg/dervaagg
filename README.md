@@ -1,4 +1,4 @@
-# Hi, I’m Derva 🙌🏻
+# Hi, I’m Derva 👋🏻
 ### Enthusiastic about programming and software development. Expert "Google Searcher" and "Copy Paster" 🚀
 ### Feel free to explore my repositories. Let's navigate the digital world together with the spirit of "Ctrl+C" and "Ctrl+V"! 💻
 <br>
